@@ -47,7 +47,7 @@
 - [ ] [0x08 - Networking](0x08)
   - [ ] Ex 1
 - [ ] [0x09 - Reverse Engineering](0x09)
-  - [ ] Ex 1
+  - [x] Ex 1
   - [ ] Ex 2
   - [ ] Ex 3
   - [ ] Ex 4
